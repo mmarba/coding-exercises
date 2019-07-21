@@ -1,7 +1,7 @@
 # recursive-reverse
 Class Reverser contains two methods:
 
-Reverse, that given a sentence and a pre-defined set of word separator characters, 
+# Reverse, that given a sentence and a pre-defined set of word separator characters, 
 reverses all the words without altering their ordinal position in the sentence, while keeping the same separator characters 
 in their original position.
 
